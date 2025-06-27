@@ -1,4 +1,4 @@
-# آموزش Async در پایتون
+# راهنمای جامع برنامه‌نویسی Async و Parallel در پایتون
 
 ![ئروفایل داکیومنت](images/document_image.jpg)
 
